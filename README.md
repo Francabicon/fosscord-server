@@ -31,5 +31,7 @@ This repository contains:
 -   [Contributing](https://docs.fosscord.com/contributing/)
 
 ## [Download](https://github.com/fosscord/fosscord-server/releases)
-
--   _is not done yet_
+   Pre Release (Might not be stable)
+-  [Linux](https://github.com/fosscord/fosscord-server/releases/download/v0.0.1/fosscord-server-linux.tgz)
+-  [Windows](https://github.com/fosscord/fosscord-server/releases/download/v0.0.1/fosscord-server-windows.exe)
+-  [MacOs](https://github.com/fosscord/fosscord-server/releases/download/v0.0.1/fosscord-server-macos.app.tgz)
